@@ -1,0 +1,61 @@
+c:\Projects\WPF_Integral_3_47_2026\WPF_Integral\bin\Debug\net8.0-windows\WPF_Integral.exe
+c:\Projects\WPF_Integral_3_47_2026\WPF_Integral\bin\Debug\net8.0-windows\WPF_Integral.deps.json
+c:\Projects\WPF_Integral_3_47_2026\WPF_Integral\bin\Debug\net8.0-windows\WPF_Integral.runtimeconfig.json
+c:\Projects\WPF_Integral_3_47_2026\WPF_Integral\bin\Debug\net8.0-windows\WPF_Integral.dll
+c:\Projects\WPF_Integral_3_47_2026\WPF_Integral\bin\Debug\net8.0-windows\WPF_Integral.pdb
+c:\Projects\WPF_Integral_3_47_2026\WPF_Integral\obj\Debug\net8.0-windows\MainWindow.g.cs
+c:\Projects\WPF_Integral_3_47_2026\WPF_Integral\obj\Debug\net8.0-windows\App.g.cs
+c:\Projects\WPF_Integral_3_47_2026\WPF_Integral\obj\Debug\net8.0-windows\WPF_Integral_MarkupCompile.cache
+c:\Projects\WPF_Integral_3_47_2026\WPF_Integral\obj\Debug\net8.0-windows\WPF_Integral_MarkupCompile.lref
+c:\Projects\WPF_Integral_3_47_2026\WPF_Integral\obj\Debug\net8.0-windows\MainWindow.baml
+c:\Projects\WPF_Integral_3_47_2026\WPF_Integral\obj\Debug\net8.0-windows\WPF_Integral.g.resources
+c:\Projects\WPF_Integral_3_47_2026\WPF_Integral\obj\Debug\net8.0-windows\WPF_Integral.GeneratedMSBuildEditorConfig.editorconfig
+c:\Projects\WPF_Integral_3_47_2026\WPF_Integral\obj\Debug\net8.0-windows\WPF_Integral.AssemblyInfoInputs.cache
+c:\Projects\WPF_Integral_3_47_2026\WPF_Integral\obj\Debug\net8.0-windows\WPF_Integral.AssemblyInfo.cs
+c:\Projects\WPF_Integral_3_47_2026\WPF_Integral\obj\Debug\net8.0-windows\WPF_Integral.csproj.CoreCompileInputs.cache
+c:\Projects\WPF_Integral_3_47_2026\WPF_Integral\obj\Debug\net8.0-windows\WPF_Integral.dll
+c:\Projects\WPF_Integral_3_47_2026\WPF_Integral\obj\Debug\net8.0-windows\refint\WPF_Integral.dll
+c:\Projects\WPF_Integral_3_47_2026\WPF_Integral\obj\Debug\net8.0-windows\WPF_Integral.pdb
+c:\Projects\WPF_Integral_3_47_2026\WPF_Integral\obj\Debug\net8.0-windows\WPF_Integral.genruntimeconfig.cache
+c:\Projects\WPF_Integral_3_47_2026\WPF_Integral\obj\Debug\net8.0-windows\ref\WPF_Integral.dll
+C:\Users\nifro\Downloads\Telegram Desktop\WPF_Integral_3_47_2026\WPF_Integral_3_47_2026\WPF_Integral\bin\Debug\net8.0-windows\WPF_Integral.exe
+C:\Users\nifro\Downloads\Telegram Desktop\WPF_Integral_3_47_2026\WPF_Integral_3_47_2026\WPF_Integral\bin\Debug\net8.0-windows\WPF_Integral.deps.json
+C:\Users\nifro\Downloads\Telegram Desktop\WPF_Integral_3_47_2026\WPF_Integral_3_47_2026\WPF_Integral\bin\Debug\net8.0-windows\WPF_Integral.runtimeconfig.json
+C:\Users\nifro\Downloads\Telegram Desktop\WPF_Integral_3_47_2026\WPF_Integral_3_47_2026\WPF_Integral\bin\Debug\net8.0-windows\WPF_Integral.dll
+C:\Users\nifro\Downloads\Telegram Desktop\WPF_Integral_3_47_2026\WPF_Integral_3_47_2026\WPF_Integral\bin\Debug\net8.0-windows\WPF_Integral.pdb
+C:\Users\nifro\Downloads\Telegram Desktop\WPF_Integral_3_47_2026\WPF_Integral_3_47_2026\WPF_Integral\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\nifro\Downloads\Telegram Desktop\WPF_Integral_3_47_2026\WPF_Integral_3_47_2026\WPF_Integral\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\nifro\Downloads\Telegram Desktop\WPF_Integral_3_47_2026\WPF_Integral_3_47_2026\WPF_Integral\obj\Debug\net8.0-windows\WPF_Integral_MarkupCompile.cache
+C:\Users\nifro\Downloads\Telegram Desktop\WPF_Integral_3_47_2026\WPF_Integral_3_47_2026\WPF_Integral\obj\Debug\net8.0-windows\WPF_Integral_MarkupCompile.lref
+C:\Users\nifro\Downloads\Telegram Desktop\WPF_Integral_3_47_2026\WPF_Integral_3_47_2026\WPF_Integral\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\nifro\Downloads\Telegram Desktop\WPF_Integral_3_47_2026\WPF_Integral_3_47_2026\WPF_Integral\obj\Debug\net8.0-windows\WPF_Integral.g.resources
+C:\Users\nifro\Downloads\Telegram Desktop\WPF_Integral_3_47_2026\WPF_Integral_3_47_2026\WPF_Integral\obj\Debug\net8.0-windows\WPF_Integral.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nifro\Downloads\Telegram Desktop\WPF_Integral_3_47_2026\WPF_Integral_3_47_2026\WPF_Integral\obj\Debug\net8.0-windows\WPF_Integral.AssemblyInfoInputs.cache
+C:\Users\nifro\Downloads\Telegram Desktop\WPF_Integral_3_47_2026\WPF_Integral_3_47_2026\WPF_Integral\obj\Debug\net8.0-windows\WPF_Integral.AssemblyInfo.cs
+C:\Users\nifro\Downloads\Telegram Desktop\WPF_Integral_3_47_2026\WPF_Integral_3_47_2026\WPF_Integral\obj\Debug\net8.0-windows\WPF_Integral.csproj.CoreCompileInputs.cache
+C:\Users\nifro\Downloads\Telegram Desktop\WPF_Integral_3_47_2026\WPF_Integral_3_47_2026\WPF_Integral\obj\Debug\net8.0-windows\WPF_Integral.dll
+C:\Users\nifro\Downloads\Telegram Desktop\WPF_Integral_3_47_2026\WPF_Integral_3_47_2026\WPF_Integral\obj\Debug\net8.0-windows\refint\WPF_Integral.dll
+C:\Users\nifro\Downloads\Telegram Desktop\WPF_Integral_3_47_2026\WPF_Integral_3_47_2026\WPF_Integral\obj\Debug\net8.0-windows\WPF_Integral.pdb
+C:\Users\nifro\Downloads\Telegram Desktop\WPF_Integral_3_47_2026\WPF_Integral_3_47_2026\WPF_Integral\obj\Debug\net8.0-windows\WPF_Integral.genruntimeconfig.cache
+C:\Users\nifro\Downloads\Telegram Desktop\WPF_Integral_3_47_2026\WPF_Integral_3_47_2026\WPF_Integral\obj\Debug\net8.0-windows\ref\WPF_Integral.dll
+C:\Users\nifro\Downloads\Telegram Desktop\WPF_Integral_3_47_2026\WPF_Integral_3_47_2026\WPF_Integral\obj\Debug\net8.0-windows\WPF_Inte.E2263A26.Up2Date
+C:\Users\vpran\Downloads\WPF_Integral_3_47_2026\WPF_Integral\bin\Debug\net8.0-windows\WPF_Integral.exe
+C:\Users\vpran\Downloads\WPF_Integral_3_47_2026\WPF_Integral\bin\Debug\net8.0-windows\WPF_Integral.deps.json
+C:\Users\vpran\Downloads\WPF_Integral_3_47_2026\WPF_Integral\bin\Debug\net8.0-windows\WPF_Integral.runtimeconfig.json
+C:\Users\vpran\Downloads\WPF_Integral_3_47_2026\WPF_Integral\bin\Debug\net8.0-windows\WPF_Integral.dll
+C:\Users\vpran\Downloads\WPF_Integral_3_47_2026\WPF_Integral\bin\Debug\net8.0-windows\WPF_Integral.pdb
+C:\Users\vpran\Downloads\WPF_Integral_3_47_2026\WPF_Integral\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\vpran\Downloads\WPF_Integral_3_47_2026\WPF_Integral\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\vpran\Downloads\WPF_Integral_3_47_2026\WPF_Integral\obj\Debug\net8.0-windows\WPF_Integral_MarkupCompile.cache
+C:\Users\vpran\Downloads\WPF_Integral_3_47_2026\WPF_Integral\obj\Debug\net8.0-windows\WPF_Integral_MarkupCompile.lref
+C:\Users\vpran\Downloads\WPF_Integral_3_47_2026\WPF_Integral\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\vpran\Downloads\WPF_Integral_3_47_2026\WPF_Integral\obj\Debug\net8.0-windows\WPF_Integral.g.resources
+C:\Users\vpran\Downloads\WPF_Integral_3_47_2026\WPF_Integral\obj\Debug\net8.0-windows\WPF_Integral.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vpran\Downloads\WPF_Integral_3_47_2026\WPF_Integral\obj\Debug\net8.0-windows\WPF_Integral.AssemblyInfoInputs.cache
+C:\Users\vpran\Downloads\WPF_Integral_3_47_2026\WPF_Integral\obj\Debug\net8.0-windows\WPF_Integral.AssemblyInfo.cs
+C:\Users\vpran\Downloads\WPF_Integral_3_47_2026\WPF_Integral\obj\Debug\net8.0-windows\WPF_Integral.csproj.CoreCompileInputs.cache
+C:\Users\vpran\Downloads\WPF_Integral_3_47_2026\WPF_Integral\obj\Debug\net8.0-windows\WPF_Integral.dll
+C:\Users\vpran\Downloads\WPF_Integral_3_47_2026\WPF_Integral\obj\Debug\net8.0-windows\refint\WPF_Integral.dll
+C:\Users\vpran\Downloads\WPF_Integral_3_47_2026\WPF_Integral\obj\Debug\net8.0-windows\WPF_Integral.pdb
+C:\Users\vpran\Downloads\WPF_Integral_3_47_2026\WPF_Integral\obj\Debug\net8.0-windows\WPF_Integral.genruntimeconfig.cache
+C:\Users\vpran\Downloads\WPF_Integral_3_47_2026\WPF_Integral\obj\Debug\net8.0-windows\ref\WPF_Integral.dll
