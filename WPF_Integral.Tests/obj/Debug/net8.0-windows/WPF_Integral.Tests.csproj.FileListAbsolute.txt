@@ -1,0 +1,210 @@
+C:\Users\nifro\Downloads\Telegram Desktop\WPF_Integral_3_47_2026\WPF_Integral_3_47_2026\WPF_Integral.Tests\bin\Debug\net8.0-windows\CoverletSourceRootsMapping_WPF_Integral.Tests
+C:\Users\nifro\Downloads\Telegram Desktop\WPF_Integral_3_47_2026\WPF_Integral_3_47_2026\WPF_Integral.Tests\bin\Debug\net8.0-windows\testhost.dll
+C:\Users\nifro\Downloads\Telegram Desktop\WPF_Integral_3_47_2026\WPF_Integral_3_47_2026\WPF_Integral.Tests\bin\Debug\net8.0-windows\WPF_Integral.deps.json
+C:\Users\nifro\Downloads\Telegram Desktop\WPF_Integral_3_47_2026\WPF_Integral_3_47_2026\WPF_Integral.Tests\bin\Debug\net8.0-windows\WPF_Integral.runtimeconfig.json
+C:\Users\nifro\Downloads\Telegram Desktop\WPF_Integral_3_47_2026\WPF_Integral_3_47_2026\WPF_Integral.Tests\bin\Debug\net8.0-windows\WPF_Integral.exe
+C:\Users\nifro\Downloads\Telegram Desktop\WPF_Integral_3_47_2026\WPF_Integral_3_47_2026\WPF_Integral.Tests\bin\Debug\net8.0-windows\testhost.exe
+C:\Users\nifro\Downloads\Telegram Desktop\WPF_Integral_3_47_2026\WPF_Integral_3_47_2026\WPF_Integral.Tests\bin\Debug\net8.0-windows\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\nifro\Downloads\Telegram Desktop\WPF_Integral_3_47_2026\WPF_Integral_3_47_2026\WPF_Integral.Tests\bin\Debug\net8.0-windows\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\nifro\Downloads\Telegram Desktop\WPF_Integral_3_47_2026\WPF_Integral_3_47_2026\WPF_Integral.Tests\bin\Debug\net8.0-windows\xunit.runner.utility.netcoreapp10.dll
+C:\Users\nifro\Downloads\Telegram Desktop\WPF_Integral_3_47_2026\WPF_Integral_3_47_2026\WPF_Integral.Tests\bin\Debug\net8.0-windows\WPF_Integral.Tests.deps.json
+C:\Users\nifro\Downloads\Telegram Desktop\WPF_Integral_3_47_2026\WPF_Integral_3_47_2026\WPF_Integral.Tests\bin\Debug\net8.0-windows\WPF_Integral.Tests.runtimeconfig.json
+C:\Users\nifro\Downloads\Telegram Desktop\WPF_Integral_3_47_2026\WPF_Integral_3_47_2026\WPF_Integral.Tests\bin\Debug\net8.0-windows\WPF_Integral.Tests.dll
+C:\Users\nifro\Downloads\Telegram Desktop\WPF_Integral_3_47_2026\WPF_Integral_3_47_2026\WPF_Integral.Tests\bin\Debug\net8.0-windows\WPF_Integral.Tests.pdb
+C:\Users\nifro\Downloads\Telegram Desktop\WPF_Integral_3_47_2026\WPF_Integral_3_47_2026\WPF_Integral.Tests\bin\Debug\net8.0-windows\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\nifro\Downloads\Telegram Desktop\WPF_Integral_3_47_2026\WPF_Integral_3_47_2026\WPF_Integral.Tests\bin\Debug\net8.0-windows\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\nifro\Downloads\Telegram Desktop\WPF_Integral_3_47_2026\WPF_Integral_3_47_2026\WPF_Integral.Tests\bin\Debug\net8.0-windows\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\nifro\Downloads\Telegram Desktop\WPF_Integral_3_47_2026\WPF_Integral_3_47_2026\WPF_Integral.Tests\bin\Debug\net8.0-windows\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\nifro\Downloads\Telegram Desktop\WPF_Integral_3_47_2026\WPF_Integral_3_47_2026\WPF_Integral.Tests\bin\Debug\net8.0-windows\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\nifro\Downloads\Telegram Desktop\WPF_Integral_3_47_2026\WPF_Integral_3_47_2026\WPF_Integral.Tests\bin\Debug\net8.0-windows\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\nifro\Downloads\Telegram Desktop\WPF_Integral_3_47_2026\WPF_Integral_3_47_2026\WPF_Integral.Tests\bin\Debug\net8.0-windows\Microsoft.TestPlatform.Utilities.dll
+C:\Users\nifro\Downloads\Telegram Desktop\WPF_Integral_3_47_2026\WPF_Integral_3_47_2026\WPF_Integral.Tests\bin\Debug\net8.0-windows\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\nifro\Downloads\Telegram Desktop\WPF_Integral_3_47_2026\WPF_Integral_3_47_2026\WPF_Integral.Tests\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\nifro\Downloads\Telegram Desktop\WPF_Integral_3_47_2026\WPF_Integral_3_47_2026\WPF_Integral.Tests\bin\Debug\net8.0-windows\NuGet.Frameworks.dll
+C:\Users\nifro\Downloads\Telegram Desktop\WPF_Integral_3_47_2026\WPF_Integral_3_47_2026\WPF_Integral.Tests\bin\Debug\net8.0-windows\xunit.abstractions.dll
+C:\Users\nifro\Downloads\Telegram Desktop\WPF_Integral_3_47_2026\WPF_Integral_3_47_2026\WPF_Integral.Tests\bin\Debug\net8.0-windows\xunit.assert.dll
+C:\Users\nifro\Downloads\Telegram Desktop\WPF_Integral_3_47_2026\WPF_Integral_3_47_2026\WPF_Integral.Tests\bin\Debug\net8.0-windows\xunit.core.dll
+C:\Users\nifro\Downloads\Telegram Desktop\WPF_Integral_3_47_2026\WPF_Integral_3_47_2026\WPF_Integral.Tests\bin\Debug\net8.0-windows\xunit.execution.dotnet.dll
+C:\Users\nifro\Downloads\Telegram Desktop\WPF_Integral_3_47_2026\WPF_Integral_3_47_2026\WPF_Integral.Tests\bin\Debug\net8.0-windows\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\nifro\Downloads\Telegram Desktop\WPF_Integral_3_47_2026\WPF_Integral_3_47_2026\WPF_Integral.Tests\bin\Debug\net8.0-windows\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\nifro\Downloads\Telegram Desktop\WPF_Integral_3_47_2026\WPF_Integral_3_47_2026\WPF_Integral.Tests\bin\Debug\net8.0-windows\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\nifro\Downloads\Telegram Desktop\WPF_Integral_3_47_2026\WPF_Integral_3_47_2026\WPF_Integral.Tests\bin\Debug\net8.0-windows\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\nifro\Downloads\Telegram Desktop\WPF_Integral_3_47_2026\WPF_Integral_3_47_2026\WPF_Integral.Tests\bin\Debug\net8.0-windows\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\nifro\Downloads\Telegram Desktop\WPF_Integral_3_47_2026\WPF_Integral_3_47_2026\WPF_Integral.Tests\bin\Debug\net8.0-windows\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\nifro\Downloads\Telegram Desktop\WPF_Integral_3_47_2026\WPF_Integral_3_47_2026\WPF_Integral.Tests\bin\Debug\net8.0-windows\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\nifro\Downloads\Telegram Desktop\WPF_Integral_3_47_2026\WPF_Integral_3_47_2026\WPF_Integral.Tests\bin\Debug\net8.0-windows\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\nifro\Downloads\Telegram Desktop\WPF_Integral_3_47_2026\WPF_Integral_3_47_2026\WPF_Integral.Tests\bin\Debug\net8.0-windows\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\nifro\Downloads\Telegram Desktop\WPF_Integral_3_47_2026\WPF_Integral_3_47_2026\WPF_Integral.Tests\bin\Debug\net8.0-windows\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\nifro\Downloads\Telegram Desktop\WPF_Integral_3_47_2026\WPF_Integral_3_47_2026\WPF_Integral.Tests\bin\Debug\net8.0-windows\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\nifro\Downloads\Telegram Desktop\WPF_Integral_3_47_2026\WPF_Integral_3_47_2026\WPF_Integral.Tests\bin\Debug\net8.0-windows\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\nifro\Downloads\Telegram Desktop\WPF_Integral_3_47_2026\WPF_Integral_3_47_2026\WPF_Integral.Tests\bin\Debug\net8.0-windows\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\nifro\Downloads\Telegram Desktop\WPF_Integral_3_47_2026\WPF_Integral_3_47_2026\WPF_Integral.Tests\bin\Debug\net8.0-windows\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\nifro\Downloads\Telegram Desktop\WPF_Integral_3_47_2026\WPF_Integral_3_47_2026\WPF_Integral.Tests\bin\Debug\net8.0-windows\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\nifro\Downloads\Telegram Desktop\WPF_Integral_3_47_2026\WPF_Integral_3_47_2026\WPF_Integral.Tests\bin\Debug\net8.0-windows\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\nifro\Downloads\Telegram Desktop\WPF_Integral_3_47_2026\WPF_Integral_3_47_2026\WPF_Integral.Tests\bin\Debug\net8.0-windows\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\nifro\Downloads\Telegram Desktop\WPF_Integral_3_47_2026\WPF_Integral_3_47_2026\WPF_Integral.Tests\bin\Debug\net8.0-windows\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\nifro\Downloads\Telegram Desktop\WPF_Integral_3_47_2026\WPF_Integral_3_47_2026\WPF_Integral.Tests\bin\Debug\net8.0-windows\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\nifro\Downloads\Telegram Desktop\WPF_Integral_3_47_2026\WPF_Integral_3_47_2026\WPF_Integral.Tests\bin\Debug\net8.0-windows\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\nifro\Downloads\Telegram Desktop\WPF_Integral_3_47_2026\WPF_Integral_3_47_2026\WPF_Integral.Tests\bin\Debug\net8.0-windows\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\nifro\Downloads\Telegram Desktop\WPF_Integral_3_47_2026\WPF_Integral_3_47_2026\WPF_Integral.Tests\bin\Debug\net8.0-windows\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\nifro\Downloads\Telegram Desktop\WPF_Integral_3_47_2026\WPF_Integral_3_47_2026\WPF_Integral.Tests\bin\Debug\net8.0-windows\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\nifro\Downloads\Telegram Desktop\WPF_Integral_3_47_2026\WPF_Integral_3_47_2026\WPF_Integral.Tests\bin\Debug\net8.0-windows\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\nifro\Downloads\Telegram Desktop\WPF_Integral_3_47_2026\WPF_Integral_3_47_2026\WPF_Integral.Tests\bin\Debug\net8.0-windows\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\nifro\Downloads\Telegram Desktop\WPF_Integral_3_47_2026\WPF_Integral_3_47_2026\WPF_Integral.Tests\bin\Debug\net8.0-windows\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\nifro\Downloads\Telegram Desktop\WPF_Integral_3_47_2026\WPF_Integral_3_47_2026\WPF_Integral.Tests\bin\Debug\net8.0-windows\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\nifro\Downloads\Telegram Desktop\WPF_Integral_3_47_2026\WPF_Integral_3_47_2026\WPF_Integral.Tests\bin\Debug\net8.0-windows\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\nifro\Downloads\Telegram Desktop\WPF_Integral_3_47_2026\WPF_Integral_3_47_2026\WPF_Integral.Tests\bin\Debug\net8.0-windows\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\nifro\Downloads\Telegram Desktop\WPF_Integral_3_47_2026\WPF_Integral_3_47_2026\WPF_Integral.Tests\bin\Debug\net8.0-windows\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\nifro\Downloads\Telegram Desktop\WPF_Integral_3_47_2026\WPF_Integral_3_47_2026\WPF_Integral.Tests\bin\Debug\net8.0-windows\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\nifro\Downloads\Telegram Desktop\WPF_Integral_3_47_2026\WPF_Integral_3_47_2026\WPF_Integral.Tests\bin\Debug\net8.0-windows\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\nifro\Downloads\Telegram Desktop\WPF_Integral_3_47_2026\WPF_Integral_3_47_2026\WPF_Integral.Tests\bin\Debug\net8.0-windows\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\nifro\Downloads\Telegram Desktop\WPF_Integral_3_47_2026\WPF_Integral_3_47_2026\WPF_Integral.Tests\bin\Debug\net8.0-windows\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\nifro\Downloads\Telegram Desktop\WPF_Integral_3_47_2026\WPF_Integral_3_47_2026\WPF_Integral.Tests\bin\Debug\net8.0-windows\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\nifro\Downloads\Telegram Desktop\WPF_Integral_3_47_2026\WPF_Integral_3_47_2026\WPF_Integral.Tests\bin\Debug\net8.0-windows\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\nifro\Downloads\Telegram Desktop\WPF_Integral_3_47_2026\WPF_Integral_3_47_2026\WPF_Integral.Tests\bin\Debug\net8.0-windows\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\nifro\Downloads\Telegram Desktop\WPF_Integral_3_47_2026\WPF_Integral_3_47_2026\WPF_Integral.Tests\bin\Debug\net8.0-windows\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\nifro\Downloads\Telegram Desktop\WPF_Integral_3_47_2026\WPF_Integral_3_47_2026\WPF_Integral.Tests\bin\Debug\net8.0-windows\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\nifro\Downloads\Telegram Desktop\WPF_Integral_3_47_2026\WPF_Integral_3_47_2026\WPF_Integral.Tests\bin\Debug\net8.0-windows\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\nifro\Downloads\Telegram Desktop\WPF_Integral_3_47_2026\WPF_Integral_3_47_2026\WPF_Integral.Tests\bin\Debug\net8.0-windows\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\nifro\Downloads\Telegram Desktop\WPF_Integral_3_47_2026\WPF_Integral_3_47_2026\WPF_Integral.Tests\bin\Debug\net8.0-windows\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\nifro\Downloads\Telegram Desktop\WPF_Integral_3_47_2026\WPF_Integral_3_47_2026\WPF_Integral.Tests\bin\Debug\net8.0-windows\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\nifro\Downloads\Telegram Desktop\WPF_Integral_3_47_2026\WPF_Integral_3_47_2026\WPF_Integral.Tests\bin\Debug\net8.0-windows\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\nifro\Downloads\Telegram Desktop\WPF_Integral_3_47_2026\WPF_Integral_3_47_2026\WPF_Integral.Tests\bin\Debug\net8.0-windows\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\nifro\Downloads\Telegram Desktop\WPF_Integral_3_47_2026\WPF_Integral_3_47_2026\WPF_Integral.Tests\bin\Debug\net8.0-windows\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\nifro\Downloads\Telegram Desktop\WPF_Integral_3_47_2026\WPF_Integral_3_47_2026\WPF_Integral.Tests\bin\Debug\net8.0-windows\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\nifro\Downloads\Telegram Desktop\WPF_Integral_3_47_2026\WPF_Integral_3_47_2026\WPF_Integral.Tests\bin\Debug\net8.0-windows\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\nifro\Downloads\Telegram Desktop\WPF_Integral_3_47_2026\WPF_Integral_3_47_2026\WPF_Integral.Tests\bin\Debug\net8.0-windows\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\nifro\Downloads\Telegram Desktop\WPF_Integral_3_47_2026\WPF_Integral_3_47_2026\WPF_Integral.Tests\bin\Debug\net8.0-windows\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\nifro\Downloads\Telegram Desktop\WPF_Integral_3_47_2026\WPF_Integral_3_47_2026\WPF_Integral.Tests\bin\Debug\net8.0-windows\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\nifro\Downloads\Telegram Desktop\WPF_Integral_3_47_2026\WPF_Integral_3_47_2026\WPF_Integral.Tests\bin\Debug\net8.0-windows\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\nifro\Downloads\Telegram Desktop\WPF_Integral_3_47_2026\WPF_Integral_3_47_2026\WPF_Integral.Tests\bin\Debug\net8.0-windows\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\nifro\Downloads\Telegram Desktop\WPF_Integral_3_47_2026\WPF_Integral_3_47_2026\WPF_Integral.Tests\bin\Debug\net8.0-windows\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\nifro\Downloads\Telegram Desktop\WPF_Integral_3_47_2026\WPF_Integral_3_47_2026\WPF_Integral.Tests\bin\Debug\net8.0-windows\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\nifro\Downloads\Telegram Desktop\WPF_Integral_3_47_2026\WPF_Integral_3_47_2026\WPF_Integral.Tests\bin\Debug\net8.0-windows\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\nifro\Downloads\Telegram Desktop\WPF_Integral_3_47_2026\WPF_Integral_3_47_2026\WPF_Integral.Tests\bin\Debug\net8.0-windows\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\nifro\Downloads\Telegram Desktop\WPF_Integral_3_47_2026\WPF_Integral_3_47_2026\WPF_Integral.Tests\bin\Debug\net8.0-windows\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\nifro\Downloads\Telegram Desktop\WPF_Integral_3_47_2026\WPF_Integral_3_47_2026\WPF_Integral.Tests\bin\Debug\net8.0-windows\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\nifro\Downloads\Telegram Desktop\WPF_Integral_3_47_2026\WPF_Integral_3_47_2026\WPF_Integral.Tests\bin\Debug\net8.0-windows\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\nifro\Downloads\Telegram Desktop\WPF_Integral_3_47_2026\WPF_Integral_3_47_2026\WPF_Integral.Tests\bin\Debug\net8.0-windows\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\nifro\Downloads\Telegram Desktop\WPF_Integral_3_47_2026\WPF_Integral_3_47_2026\WPF_Integral.Tests\bin\Debug\net8.0-windows\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\nifro\Downloads\Telegram Desktop\WPF_Integral_3_47_2026\WPF_Integral_3_47_2026\WPF_Integral.Tests\bin\Debug\net8.0-windows\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\nifro\Downloads\Telegram Desktop\WPF_Integral_3_47_2026\WPF_Integral_3_47_2026\WPF_Integral.Tests\bin\Debug\net8.0-windows\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\nifro\Downloads\Telegram Desktop\WPF_Integral_3_47_2026\WPF_Integral_3_47_2026\WPF_Integral.Tests\bin\Debug\net8.0-windows\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\nifro\Downloads\Telegram Desktop\WPF_Integral_3_47_2026\WPF_Integral_3_47_2026\WPF_Integral.Tests\bin\Debug\net8.0-windows\WPF_Integral.dll
+C:\Users\nifro\Downloads\Telegram Desktop\WPF_Integral_3_47_2026\WPF_Integral_3_47_2026\WPF_Integral.Tests\bin\Debug\net8.0-windows\WPF_Integral.pdb
+C:\Users\nifro\Downloads\Telegram Desktop\WPF_Integral_3_47_2026\WPF_Integral_3_47_2026\WPF_Integral.Tests\obj\Debug\net8.0-windows\WPF_Integral.Tests.csproj.AssemblyReference.cache
+C:\Users\nifro\Downloads\Telegram Desktop\WPF_Integral_3_47_2026\WPF_Integral_3_47_2026\WPF_Integral.Tests\obj\Debug\net8.0-windows\WPF_Integral.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nifro\Downloads\Telegram Desktop\WPF_Integral_3_47_2026\WPF_Integral_3_47_2026\WPF_Integral.Tests\obj\Debug\net8.0-windows\WPF_Integral.Tests.AssemblyInfoInputs.cache
+C:\Users\nifro\Downloads\Telegram Desktop\WPF_Integral_3_47_2026\WPF_Integral_3_47_2026\WPF_Integral.Tests\obj\Debug\net8.0-windows\WPF_Integral.Tests.AssemblyInfo.cs
+C:\Users\nifro\Downloads\Telegram Desktop\WPF_Integral_3_47_2026\WPF_Integral_3_47_2026\WPF_Integral.Tests\obj\Debug\net8.0-windows\WPF_Integral.Tests.csproj.CoreCompileInputs.cache
+C:\Users\nifro\Downloads\Telegram Desktop\WPF_Integral_3_47_2026\WPF_Integral_3_47_2026\WPF_Integral.Tests\obj\Debug\net8.0-windows\WPF_Inte.26E567B9.Up2Date
+C:\Users\nifro\Downloads\Telegram Desktop\WPF_Integral_3_47_2026\WPF_Integral_3_47_2026\WPF_Integral.Tests\obj\Debug\net8.0-windows\WPF_Integral.Tests.dll
+C:\Users\nifro\Downloads\Telegram Desktop\WPF_Integral_3_47_2026\WPF_Integral_3_47_2026\WPF_Integral.Tests\obj\Debug\net8.0-windows\refint\WPF_Integral.Tests.dll
+C:\Users\nifro\Downloads\Telegram Desktop\WPF_Integral_3_47_2026\WPF_Integral_3_47_2026\WPF_Integral.Tests\obj\Debug\net8.0-windows\WPF_Integral.Tests.pdb
+C:\Users\nifro\Downloads\Telegram Desktop\WPF_Integral_3_47_2026\WPF_Integral_3_47_2026\WPF_Integral.Tests\obj\Debug\net8.0-windows\WPF_Integral.Tests.genruntimeconfig.cache
+C:\Users\nifro\Downloads\Telegram Desktop\WPF_Integral_3_47_2026\WPF_Integral_3_47_2026\WPF_Integral.Tests\obj\Debug\net8.0-windows\ref\WPF_Integral.Tests.dll
+C:\Users\vpran\Downloads\WPF_Integral_3_47_2026\WPF_Integral.Tests\bin\Debug\net8.0-windows\CoverletSourceRootsMapping_WPF_Integral.Tests
+C:\Users\vpran\Downloads\WPF_Integral_3_47_2026\WPF_Integral.Tests\bin\Debug\net8.0-windows\testhost.exe
+C:\Users\vpran\Downloads\WPF_Integral_3_47_2026\WPF_Integral.Tests\bin\Debug\net8.0-windows\testhost.dll
+C:\Users\vpran\Downloads\WPF_Integral_3_47_2026\WPF_Integral.Tests\bin\Debug\net8.0-windows\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\vpran\Downloads\WPF_Integral_3_47_2026\WPF_Integral.Tests\bin\Debug\net8.0-windows\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\vpran\Downloads\WPF_Integral_3_47_2026\WPF_Integral.Tests\bin\Debug\net8.0-windows\xunit.runner.utility.netcoreapp10.dll
+C:\Users\vpran\Downloads\WPF_Integral_3_47_2026\WPF_Integral.Tests\bin\Debug\net8.0-windows\WPF_Integral.deps.json
+C:\Users\vpran\Downloads\WPF_Integral_3_47_2026\WPF_Integral.Tests\bin\Debug\net8.0-windows\WPF_Integral.runtimeconfig.json
+C:\Users\vpran\Downloads\WPF_Integral_3_47_2026\WPF_Integral.Tests\bin\Debug\net8.0-windows\WPF_Integral.exe
+C:\Users\vpran\Downloads\WPF_Integral_3_47_2026\WPF_Integral.Tests\bin\Debug\net8.0-windows\WPF_Integral.Tests.deps.json
+C:\Users\vpran\Downloads\WPF_Integral_3_47_2026\WPF_Integral.Tests\bin\Debug\net8.0-windows\WPF_Integral.Tests.runtimeconfig.json
+C:\Users\vpran\Downloads\WPF_Integral_3_47_2026\WPF_Integral.Tests\bin\Debug\net8.0-windows\WPF_Integral.Tests.dll
+C:\Users\vpran\Downloads\WPF_Integral_3_47_2026\WPF_Integral.Tests\bin\Debug\net8.0-windows\WPF_Integral.Tests.pdb
+C:\Users\vpran\Downloads\WPF_Integral_3_47_2026\WPF_Integral.Tests\bin\Debug\net8.0-windows\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\vpran\Downloads\WPF_Integral_3_47_2026\WPF_Integral.Tests\bin\Debug\net8.0-windows\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\vpran\Downloads\WPF_Integral_3_47_2026\WPF_Integral.Tests\bin\Debug\net8.0-windows\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\vpran\Downloads\WPF_Integral_3_47_2026\WPF_Integral.Tests\bin\Debug\net8.0-windows\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\vpran\Downloads\WPF_Integral_3_47_2026\WPF_Integral.Tests\bin\Debug\net8.0-windows\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\vpran\Downloads\WPF_Integral_3_47_2026\WPF_Integral.Tests\bin\Debug\net8.0-windows\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\vpran\Downloads\WPF_Integral_3_47_2026\WPF_Integral.Tests\bin\Debug\net8.0-windows\Microsoft.TestPlatform.Utilities.dll
+C:\Users\vpran\Downloads\WPF_Integral_3_47_2026\WPF_Integral.Tests\bin\Debug\net8.0-windows\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\vpran\Downloads\WPF_Integral_3_47_2026\WPF_Integral.Tests\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\vpran\Downloads\WPF_Integral_3_47_2026\WPF_Integral.Tests\bin\Debug\net8.0-windows\NuGet.Frameworks.dll
+C:\Users\vpran\Downloads\WPF_Integral_3_47_2026\WPF_Integral.Tests\bin\Debug\net8.0-windows\xunit.abstractions.dll
+C:\Users\vpran\Downloads\WPF_Integral_3_47_2026\WPF_Integral.Tests\bin\Debug\net8.0-windows\xunit.assert.dll
+C:\Users\vpran\Downloads\WPF_Integral_3_47_2026\WPF_Integral.Tests\bin\Debug\net8.0-windows\xunit.core.dll
+C:\Users\vpran\Downloads\WPF_Integral_3_47_2026\WPF_Integral.Tests\bin\Debug\net8.0-windows\xunit.execution.dotnet.dll
+C:\Users\vpran\Downloads\WPF_Integral_3_47_2026\WPF_Integral.Tests\bin\Debug\net8.0-windows\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\vpran\Downloads\WPF_Integral_3_47_2026\WPF_Integral.Tests\bin\Debug\net8.0-windows\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\vpran\Downloads\WPF_Integral_3_47_2026\WPF_Integral.Tests\bin\Debug\net8.0-windows\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\vpran\Downloads\WPF_Integral_3_47_2026\WPF_Integral.Tests\bin\Debug\net8.0-windows\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\vpran\Downloads\WPF_Integral_3_47_2026\WPF_Integral.Tests\bin\Debug\net8.0-windows\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\vpran\Downloads\WPF_Integral_3_47_2026\WPF_Integral.Tests\bin\Debug\net8.0-windows\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\vpran\Downloads\WPF_Integral_3_47_2026\WPF_Integral.Tests\bin\Debug\net8.0-windows\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\vpran\Downloads\WPF_Integral_3_47_2026\WPF_Integral.Tests\bin\Debug\net8.0-windows\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\vpran\Downloads\WPF_Integral_3_47_2026\WPF_Integral.Tests\bin\Debug\net8.0-windows\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\vpran\Downloads\WPF_Integral_3_47_2026\WPF_Integral.Tests\bin\Debug\net8.0-windows\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\vpran\Downloads\WPF_Integral_3_47_2026\WPF_Integral.Tests\bin\Debug\net8.0-windows\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\vpran\Downloads\WPF_Integral_3_47_2026\WPF_Integral.Tests\bin\Debug\net8.0-windows\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\vpran\Downloads\WPF_Integral_3_47_2026\WPF_Integral.Tests\bin\Debug\net8.0-windows\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\vpran\Downloads\WPF_Integral_3_47_2026\WPF_Integral.Tests\bin\Debug\net8.0-windows\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\vpran\Downloads\WPF_Integral_3_47_2026\WPF_Integral.Tests\bin\Debug\net8.0-windows\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\vpran\Downloads\WPF_Integral_3_47_2026\WPF_Integral.Tests\bin\Debug\net8.0-windows\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\vpran\Downloads\WPF_Integral_3_47_2026\WPF_Integral.Tests\bin\Debug\net8.0-windows\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\vpran\Downloads\WPF_Integral_3_47_2026\WPF_Integral.Tests\bin\Debug\net8.0-windows\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\vpran\Downloads\WPF_Integral_3_47_2026\WPF_Integral.Tests\bin\Debug\net8.0-windows\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\vpran\Downloads\WPF_Integral_3_47_2026\WPF_Integral.Tests\bin\Debug\net8.0-windows\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\vpran\Downloads\WPF_Integral_3_47_2026\WPF_Integral.Tests\bin\Debug\net8.0-windows\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\vpran\Downloads\WPF_Integral_3_47_2026\WPF_Integral.Tests\bin\Debug\net8.0-windows\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\vpran\Downloads\WPF_Integral_3_47_2026\WPF_Integral.Tests\bin\Debug\net8.0-windows\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\vpran\Downloads\WPF_Integral_3_47_2026\WPF_Integral.Tests\bin\Debug\net8.0-windows\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\vpran\Downloads\WPF_Integral_3_47_2026\WPF_Integral.Tests\bin\Debug\net8.0-windows\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\vpran\Downloads\WPF_Integral_3_47_2026\WPF_Integral.Tests\bin\Debug\net8.0-windows\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\vpran\Downloads\WPF_Integral_3_47_2026\WPF_Integral.Tests\bin\Debug\net8.0-windows\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\vpran\Downloads\WPF_Integral_3_47_2026\WPF_Integral.Tests\bin\Debug\net8.0-windows\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\vpran\Downloads\WPF_Integral_3_47_2026\WPF_Integral.Tests\bin\Debug\net8.0-windows\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\vpran\Downloads\WPF_Integral_3_47_2026\WPF_Integral.Tests\bin\Debug\net8.0-windows\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\vpran\Downloads\WPF_Integral_3_47_2026\WPF_Integral.Tests\bin\Debug\net8.0-windows\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\vpran\Downloads\WPF_Integral_3_47_2026\WPF_Integral.Tests\bin\Debug\net8.0-windows\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\vpran\Downloads\WPF_Integral_3_47_2026\WPF_Integral.Tests\bin\Debug\net8.0-windows\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\vpran\Downloads\WPF_Integral_3_47_2026\WPF_Integral.Tests\bin\Debug\net8.0-windows\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\vpran\Downloads\WPF_Integral_3_47_2026\WPF_Integral.Tests\bin\Debug\net8.0-windows\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\vpran\Downloads\WPF_Integral_3_47_2026\WPF_Integral.Tests\bin\Debug\net8.0-windows\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\vpran\Downloads\WPF_Integral_3_47_2026\WPF_Integral.Tests\bin\Debug\net8.0-windows\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\vpran\Downloads\WPF_Integral_3_47_2026\WPF_Integral.Tests\bin\Debug\net8.0-windows\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\vpran\Downloads\WPF_Integral_3_47_2026\WPF_Integral.Tests\bin\Debug\net8.0-windows\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\vpran\Downloads\WPF_Integral_3_47_2026\WPF_Integral.Tests\bin\Debug\net8.0-windows\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\vpran\Downloads\WPF_Integral_3_47_2026\WPF_Integral.Tests\bin\Debug\net8.0-windows\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\vpran\Downloads\WPF_Integral_3_47_2026\WPF_Integral.Tests\bin\Debug\net8.0-windows\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\vpran\Downloads\WPF_Integral_3_47_2026\WPF_Integral.Tests\bin\Debug\net8.0-windows\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\vpran\Downloads\WPF_Integral_3_47_2026\WPF_Integral.Tests\bin\Debug\net8.0-windows\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\vpran\Downloads\WPF_Integral_3_47_2026\WPF_Integral.Tests\bin\Debug\net8.0-windows\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\vpran\Downloads\WPF_Integral_3_47_2026\WPF_Integral.Tests\bin\Debug\net8.0-windows\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\vpran\Downloads\WPF_Integral_3_47_2026\WPF_Integral.Tests\bin\Debug\net8.0-windows\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\vpran\Downloads\WPF_Integral_3_47_2026\WPF_Integral.Tests\bin\Debug\net8.0-windows\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\vpran\Downloads\WPF_Integral_3_47_2026\WPF_Integral.Tests\bin\Debug\net8.0-windows\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\vpran\Downloads\WPF_Integral_3_47_2026\WPF_Integral.Tests\bin\Debug\net8.0-windows\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\vpran\Downloads\WPF_Integral_3_47_2026\WPF_Integral.Tests\bin\Debug\net8.0-windows\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\vpran\Downloads\WPF_Integral_3_47_2026\WPF_Integral.Tests\bin\Debug\net8.0-windows\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\vpran\Downloads\WPF_Integral_3_47_2026\WPF_Integral.Tests\bin\Debug\net8.0-windows\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\vpran\Downloads\WPF_Integral_3_47_2026\WPF_Integral.Tests\bin\Debug\net8.0-windows\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\vpran\Downloads\WPF_Integral_3_47_2026\WPF_Integral.Tests\bin\Debug\net8.0-windows\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\vpran\Downloads\WPF_Integral_3_47_2026\WPF_Integral.Tests\bin\Debug\net8.0-windows\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\vpran\Downloads\WPF_Integral_3_47_2026\WPF_Integral.Tests\bin\Debug\net8.0-windows\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\vpran\Downloads\WPF_Integral_3_47_2026\WPF_Integral.Tests\bin\Debug\net8.0-windows\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\vpran\Downloads\WPF_Integral_3_47_2026\WPF_Integral.Tests\bin\Debug\net8.0-windows\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\vpran\Downloads\WPF_Integral_3_47_2026\WPF_Integral.Tests\bin\Debug\net8.0-windows\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\vpran\Downloads\WPF_Integral_3_47_2026\WPF_Integral.Tests\bin\Debug\net8.0-windows\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\vpran\Downloads\WPF_Integral_3_47_2026\WPF_Integral.Tests\bin\Debug\net8.0-windows\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\vpran\Downloads\WPF_Integral_3_47_2026\WPF_Integral.Tests\bin\Debug\net8.0-windows\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\vpran\Downloads\WPF_Integral_3_47_2026\WPF_Integral.Tests\bin\Debug\net8.0-windows\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\vpran\Downloads\WPF_Integral_3_47_2026\WPF_Integral.Tests\bin\Debug\net8.0-windows\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\vpran\Downloads\WPF_Integral_3_47_2026\WPF_Integral.Tests\bin\Debug\net8.0-windows\WPF_Integral.dll
+C:\Users\vpran\Downloads\WPF_Integral_3_47_2026\WPF_Integral.Tests\bin\Debug\net8.0-windows\WPF_Integral.pdb
+C:\Users\vpran\Downloads\WPF_Integral_3_47_2026\WPF_Integral.Tests\obj\Debug\net8.0-windows\WPF_Integral.Tests.csproj.AssemblyReference.cache
+C:\Users\vpran\Downloads\WPF_Integral_3_47_2026\WPF_Integral.Tests\obj\Debug\net8.0-windows\WPF_Integral.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vpran\Downloads\WPF_Integral_3_47_2026\WPF_Integral.Tests\obj\Debug\net8.0-windows\WPF_Integral.Tests.AssemblyInfoInputs.cache
+C:\Users\vpran\Downloads\WPF_Integral_3_47_2026\WPF_Integral.Tests\obj\Debug\net8.0-windows\WPF_Integral.Tests.AssemblyInfo.cs
+C:\Users\vpran\Downloads\WPF_Integral_3_47_2026\WPF_Integral.Tests\obj\Debug\net8.0-windows\WPF_Integral.Tests.csproj.CoreCompileInputs.cache
+C:\Users\vpran\Downloads\WPF_Integral_3_47_2026\WPF_Integral.Tests\obj\Debug\net8.0-windows\WPF_Inte.26E567B9.Up2Date
+C:\Users\vpran\Downloads\WPF_Integral_3_47_2026\WPF_Integral.Tests\obj\Debug\net8.0-windows\WPF_Integral.Tests.dll
+C:\Users\vpran\Downloads\WPF_Integral_3_47_2026\WPF_Integral.Tests\obj\Debug\net8.0-windows\refint\WPF_Integral.Tests.dll
+C:\Users\vpran\Downloads\WPF_Integral_3_47_2026\WPF_Integral.Tests\obj\Debug\net8.0-windows\WPF_Integral.Tests.pdb
+C:\Users\vpran\Downloads\WPF_Integral_3_47_2026\WPF_Integral.Tests\obj\Debug\net8.0-windows\WPF_Integral.Tests.genruntimeconfig.cache
+C:\Users\vpran\Downloads\WPF_Integral_3_47_2026\WPF_Integral.Tests\obj\Debug\net8.0-windows\ref\WPF_Integral.Tests.dll
